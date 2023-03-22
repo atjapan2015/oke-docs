@@ -13,5 +13,6 @@
 - [制作中-Karmada用户指南](./Karmada用户指南/README.md)
 - [制作中-Istio之在不同的网络上安装Primary-Remote](./Istio之在不同的网络上安装Primary-Remote/README.md)
 
-
+- [使用dnstools查看网络](使用dnstools查看网络/README.md)
+- [使用kubetail查看日志](使用kubetail查看日志/README.md)
 
